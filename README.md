@@ -1,5 +1,5 @@
-yarp-cmake-modules
-------------------
+YARP Cmake Modules Importer
+---------------------------
 
 This is a set of scripts that was used for the initial
 import for the YCM (YARP CMake Modules) repository.
